@@ -1,34 +1,31 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-permalink: /about
-comments: true
+title: About Me
+permalink: /About Me/
+comments: true # use assets/imgages/butterflies.png somehow?
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+Hello! My name is Lucy Storts and I am a senior studying Statistics at Brigham Young University. I took a statistics class in high school and was fascinated by all the different fields statistics can be applicatied to. This is my last semester of school and I am very excited to graduate!
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+![Figure](https://raw.githubusercontent.com/lucystorts/BlogRepo/assets/images/picofme.jpg)
 
-<h4>Questions or bug reports?</h4>
+Some of my interests outside of school and work include hiking, traveling, beading jewelry, and playing with my dog, Benson. He lives with my parents while I am in school, but I am excited to reunite when I graduate. 
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+![Figure](https://raw.githubusercontent.com/lucystorts/BlogRepo/assets/images/benson.jpg)
 
-</div>
+Some of my professional interests include epidemiological data, climate change, women's health, healthcare data, bioinformatics, and application of machine learning to the study of genetics. I believe the "hard-to-answer" questions can be answered through data collection and analysis, and I am excited to share and apply what I've been studying to real world problems. 
 
-<div class="col-md-4">
+Finally, I wanted to thank you for checking out my blog! Just for fun, here are a couple pictures I took last summer while hiking at Glacier NP...
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+![Figure](https://raw.githubusercontent.com/lucystorts/BlogRepo/assets/images/glaciernp1.jpg)
+<br>
+![Figure](https://raw.githubusercontent.com/lucystorts/BlogRepo/assets/images/glaciernp2.jpg)
+<br>
+![Figure](https://raw.githubusercontent.com/lucystorts/BlogRepo/assets/images/glaciernp3.jpg)
 
 </div>
 </div>
